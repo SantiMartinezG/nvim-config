@@ -19,6 +19,7 @@ return {
 					"graphql",
 					"sql",
 					"svelte",
+					"go",
 				},
 				highlight = { enable = true },
 				indent = { enable = true },
